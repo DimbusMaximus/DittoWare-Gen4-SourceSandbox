@@ -1,0 +1,6 @@
+newmtl cliff01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd cliff01.png
+map_d cliff01.png

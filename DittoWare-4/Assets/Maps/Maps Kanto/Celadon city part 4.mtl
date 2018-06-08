@@ -1,0 +1,36 @@
+newmtl tree01_re
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_re.png
+map_d tree01_re.png
+newmtl tree01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01.png
+map_d tree01.png
+newmtl tree01_un
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_un.png
+map_d tree01_un.png
+newmtl road01_r
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd road01_r.png
+map_d road01_r.png
+newmtl grass01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01.png
+map_d grass01.png
+newmtl beach01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd beach01.png
+map_d beach01.png

@@ -1,0 +1,90 @@
+newmtl tree01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01.png
+map_d tree01.png
+newmtl tree01_re
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_re.png
+map_d tree01_re.png
+newmtl flower02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd flower02.png
+map_d flower02.png
+newmtl flower01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd flower01.png
+map_d flower01.png
+newmtl fence_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd fence_a.png
+map_d fence_a.png
+newmtl pond_line
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pond_line.png
+map_d pond_line.png
+newmtl sea_line02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_line02.png
+map_d sea_line02.png
+newmtl sea_un
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_un.png
+map_d sea_un.png
+newmtl sea_on
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_on.png
+map_d sea_on.png
+newmtl tree01_un
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_un.png
+map_d tree01_un.png
+newmtl grass01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01.png
+map_d grass01.png
+newmtl road01_r
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd road01_r.png
+map_d road01_r.png
+newmtl grass02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass02.png
+map_d grass02.png
+newmtl grass02_r
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass02_r.png
+map_d grass02_r.png
+newmtl grass01_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01_a.png
+map_d grass01_a.png

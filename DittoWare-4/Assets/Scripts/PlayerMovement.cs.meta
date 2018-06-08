@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fb46e7a9813a20c428cf41ea42f25f8e
+timeCreated: 1498917772
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - busyWith: {instanceID: 0}
+  - followerScript: {instanceID: 0}
+  - hitBox: {instanceID: 0}
+  - currentMap: {instanceID: 0}
+  - destinationMap: {instanceID: 0}
+  - accessedMapSettings: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - bumpClip: {instanceID: 0}
+  - jumpClip: {instanceID: 0}
+  - landClip: {instanceID: 0}
+  - bottomBGText: {fileID: 2800000, guid: a76c09f9ac996334b9f007ff91ebd363, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,114 @@
+newmtl tree01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01.png
+map_d tree01.png
+newmtl tree01_re
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_re.png
+map_d tree01_re.png
+newmtl tree01_un
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_un.png
+map_d tree01_un.png
+newmtl grass01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01.png
+map_d grass01.png
+newmtl nib_fe01_r
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd nib_fe01_r.png
+map_d nib_fe01_r.png
+newmtl nib_fe02_r
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd nib_fe02_r.png
+map_d nib_fe02_r.png
+newmtl nib_fe01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd nib_fe01.png
+map_d nib_fe01.png
+newmtl nib_fe02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd nib_fe02.png
+map_d nib_fe02.png
+newmtl road01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd road01.png
+map_d road01.png
+newmtl road01_r
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd road01_r.png
+map_d road01_r.png
+newmtl fence_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd fence_a.png
+map_d fence_a.png
+newmtl etcs_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd etcs_a.png
+map_d etcs_a.png
+newmtl grass01_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01_a.png
+map_d grass01_a.png
+newmtl flower01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd flower01.png
+map_d flower01.png
+newmtl flower02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd flower02.png
+map_d flower02.png
+newmtl road01_sub
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd road01_sub.png
+map_d road01_sub.png
+newmtl wall01_g
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wall01_g.png
+map_d wall01_g.png
+newmtl wall01_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wall01_d.png
+map_d wall01_d.png
+newmtl cliff01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd cliff01.png
+map_d cliff01.png

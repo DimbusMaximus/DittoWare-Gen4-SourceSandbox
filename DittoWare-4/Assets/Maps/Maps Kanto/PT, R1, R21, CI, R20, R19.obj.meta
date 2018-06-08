@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 80e3598fc2a4d284394683937852afb8
+timeCreated: 1527702074
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cave_Entranc
+    100002: Deco
+    100004: Fences
+    100006: Gr_Grass
+    100008: Gr_Gravel
+    100010: Gr_Sand
+    100012: Gr_SandShore
+    100014: Gr_Stone
+    100016: Grass_Wild
+    100018: LedgeJump
+    100020: Mountain
+    100022: //RootNode
+    100024: Red_Flower
+    100026: Rock_B
+    100028: Rock_S
+    100030: RockClimb
+    100032: Sea_Line
+    100034: Stairs
+    100036: Tree_Coll
+    100038: Trees
+    100040: Water_Edge
+    100042: Water_Over
+    100044: Water_Under
+    100046: White_Flower
+    100048: WStone_Big
+    100050: WStone_Small
+    400000: Cave_Entranc
+    400002: Deco
+    400004: Fences
+    400006: Gr_Grass
+    400008: Gr_Gravel
+    400010: Gr_Sand
+    400012: Gr_SandShore
+    400014: Gr_Stone
+    400016: Grass_Wild
+    400018: LedgeJump
+    400020: Mountain
+    400022: //RootNode
+    400024: Red_Flower
+    400026: Rock_B
+    400028: Rock_S
+    400030: RockClimb
+    400032: Sea_Line
+    400034: Stairs
+    400036: Tree_Coll
+    400038: Trees
+    400040: Water_Edge
+    400042: Water_Over
+    400044: Water_Under
+    400046: White_Flower
+    400048: WStone_Big
+    400050: WStone_Small
+    2100000: Cave_EntrancMat
+    2100002: DecoMat
+    2100004: FencesMat
+    2100006: Gr_GrassMat
+    2100008: Gr_GravelMat
+    2100010: Gr_SandMat
+    2100012: Gr_SandShoreMat
+    2100014: Gr_StoneMat
+    2100016: Grass_WildMat
+    2100018: LedgeJumpMat
+    2100020: MountainMat
+    2100022: Red_FlowerMat
+    2100024: Rock_BMat
+    2100026: Rock_SMat
+    2100028: RockClimbMat
+    2100030: Sea_LineMat
+    2100032: StairsMat
+    2100034: Tree_CollMat
+    2100036: TreesMat
+    2100038: Water_EdgeMat
+    2100040: Water_OverMat
+    2100042: Water_UnderMat
+    2100044: White_FlowerMat
+    2100046: WStone_BigMat
+    2100048: WStone_SmallMat
+    2300000: Cave_Entranc
+    2300002: Deco
+    2300004: Fences
+    2300006: Gr_Grass
+    2300008: Gr_Gravel
+    2300010: Gr_Sand
+    2300012: Gr_SandShore
+    2300014: Gr_Stone
+    2300016: Grass_Wild
+    2300018: LedgeJump
+    2300020: Mountain
+    2300022: Red_Flower
+    2300024: Rock_B
+    2300026: Rock_S
+    2300028: RockClimb
+    2300030: Sea_Line
+    2300032: Stairs
+    2300034: Tree_Coll
+    2300036: Trees
+    2300038: Water_Edge
+    2300040: Water_Over
+    2300042: Water_Under
+    2300044: White_Flower
+    2300046: WStone_Big
+    2300048: WStone_Small
+    3300000: Cave_Entranc
+    3300002: Deco
+    3300004: Fences
+    3300006: Gr_Grass
+    3300008: Gr_Gravel
+    3300010: Gr_Sand
+    3300012: Gr_SandShore
+    3300014: Gr_Stone
+    3300016: Grass_Wild
+    3300018: LedgeJump
+    3300020: Mountain
+    3300022: Red_Flower
+    3300024: Rock_B
+    3300026: Rock_S
+    3300028: RockClimb
+    3300030: Sea_Line
+    3300032: Stairs
+    3300034: Tree_Coll
+    3300036: Trees
+    3300038: Water_Edge
+    3300040: Water_Over
+    3300042: Water_Under
+    3300044: White_Flower
+    3300046: WStone_Big
+    3300048: WStone_Small
+    4300000: Cave_Entranc
+    4300002: Deco
+    4300004: Fences
+    4300006: Gr_Grass
+    4300008: Gr_Gravel
+    4300010: Gr_Sand
+    4300012: Gr_SandShore
+    4300014: Gr_Stone
+    4300016: Grass_Wild
+    4300018: LedgeJump
+    4300020: Mountain
+    4300022: Red_Flower
+    4300024: Rock_B
+    4300026: Rock_S
+    4300028: RockClimb
+    4300030: Sea_Line
+    4300032: Stairs
+    4300034: Tree_Coll
+    4300036: Trees
+    4300038: Water_Edge
+    4300040: Water_Over
+    4300042: Water_Under
+    4300044: White_Flower
+    4300046: WStone_Big
+    4300048: WStone_Small
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

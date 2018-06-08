@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f87cccfa7952c2e4bb0d12f7016e14f0
+timeCreated: 1438706591
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 13
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Power Clear
+  fontNames:
+  - Power Clear
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3eb02d306bf842f4eb722dff9053a736, type: 3}
+  - {fileID: 12800000, guid: 8a3c46312b4fe3e4fbe976413c08d8f0, type: 3}
+  - {fileID: 12800000, guid: 2a257e23ae7c0a04094efc158b5bb6d4, type: 3}
+  - {fileID: 12800000, guid: 8f157ef4fb4990d488cd899632b0df9b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

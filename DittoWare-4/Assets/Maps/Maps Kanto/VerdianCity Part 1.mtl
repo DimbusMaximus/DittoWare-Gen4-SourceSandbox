@@ -1,0 +1,54 @@
+newmtl cliff01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd cliff01.png
+map_d cliff01.png
+newmtl wall01_g
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wall01_g.png
+map_d wall01_g.png
+newmtl wall01_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wall01_d.png
+map_d wall01_d.png
+newmtl grass01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01.png
+map_d grass01.png
+newmtl road01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd road01.png
+map_d road01.png
+newmtl fence_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd fence_a.png
+map_d fence_a.png
+newmtl tree01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01.png
+map_d tree01.png
+newmtl tree01_re
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_re.png
+map_d tree01_re.png
+newmtl tree01_un
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_un.png
+map_d tree01_un.png

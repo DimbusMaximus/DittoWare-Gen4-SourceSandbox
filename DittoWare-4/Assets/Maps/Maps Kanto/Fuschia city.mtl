@@ -1,0 +1,132 @@
+newmtl flower01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd flower01.png
+map_d flower01.png
+newmtl flower02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd flower02.png
+map_d flower02.png
+newmtl cliff01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd cliff01.png
+map_d cliff01.png
+newmtl wall01_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wall01_d.png
+map_d wall01_d.png
+newmtl wall01_g
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wall01_g.png
+map_d wall01_g.png
+newmtl grass01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01.png
+map_d grass01.png
+newmtl grass01_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01_a.png
+map_d grass01_a.png
+newmtl allpeak
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd allpeak.png
+map_d allpeak.png
+newmtl allpeak_p
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd allpeak_p.png
+map_d allpeak_p.png
+newmtl pond_on
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.7097
+map_Kd pond_on.png
+map_d pond_on.png
+newmtl pond_edge
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.7097
+map_Kd pond_edge.png
+map_d pond_edge.png
+newmtl pond_un
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pond_un.png
+map_d pond_un.png
+newmtl pond_line
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pond_line.png
+map_d pond_line.png
+newmtl fence_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd fence_a.png
+map_d fence_a.png
+newmtl tree01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01.png
+map_d tree01.png
+newmtl tree01_re
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_re.png
+map_d tree01_re.png
+newmtl tree01_un
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tree01_un.png
+map_d tree01_un.png
+newmtl pasted__road01_r
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pasted__road01_r.png
+map_d pasted__road01_r.png
+newmtl _kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.2903
+map_Kd _kage.png
+map_d _kage.png
+newmtl sh_miti2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sh_miti2.png
+map_d sh_miti2.png
+newmtl ueiki
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ueiki.png
+map_d ueiki.png
+newmtl hana
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd hana.png
+map_d hana.png

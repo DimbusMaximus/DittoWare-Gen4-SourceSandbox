@@ -1,0 +1,96 @@
+newmtl cliff01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd cliff01.png
+map_d cliff01.png
+newmtl wall01_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wall01_d.png
+map_d wall01_d.png
+newmtl wall01_g
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wall01_g.png
+map_d wall01_g.png
+newmtl allpeak_p
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd allpeak_p.png
+map_d allpeak_p.png
+newmtl allpeak
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd allpeak.png
+map_d allpeak.png
+newmtl fence_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd fence_a.png
+map_d fence_a.png
+newmtl grass01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01.png
+map_d grass01.png
+newmtl as_fe01_r
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd as_fe01_r.png
+map_d as_fe01_r.png
+newmtl as_fe02_r
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd as_fe02_r.png
+map_d as_fe02_r.png
+newmtl flower_sp
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd flower_sp.png
+map_d flower_sp.png
+newmtl f_dodai
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd f_dodai.png
+map_d f_dodai.png
+newmtl f_dodai_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd f_dodai_a.png
+map_d f_dodai_a.png
+newmtl kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.2903
+map_Kd kage.png
+map_d kage.png
+newmtl as_fe01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd as_fe01.png
+map_d as_fe01.png
+newmtl flower_sp2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd flower_sp2.png
+map_d flower_sp2.png
+newmtl as_fe02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd as_fe02.png
+map_d as_fe02.png
