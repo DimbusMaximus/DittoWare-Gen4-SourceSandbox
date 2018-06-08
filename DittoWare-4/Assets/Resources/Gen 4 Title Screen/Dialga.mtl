@@ -1,0 +1,32 @@
+newmtl blinn1
+Ka 0.1254902 0.1568628 0.3764706
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka blinn1.png
+map_Kd blinn1.png
+map_d blinn1.png
+newmtl blinn3
+Ka 0.1568628 0.2196078 0.5960785
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka blinn3.png
+map_Kd blinn3.png
+map_d blinn3.png
+newmtl iar_skin
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka iar_skin.png
+map_Kd iar_skin.png
+map_d iar_skin.png
+newmtl lambert4
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka lambert4.png
+map_Kd lambert4.png
+map_d lambert4.png

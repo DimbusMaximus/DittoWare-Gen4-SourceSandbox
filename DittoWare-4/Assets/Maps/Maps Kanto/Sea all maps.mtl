@@ -1,0 +1,12 @@
+newmtl sea_un
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_un.png
+map_d sea_un.png
+newmtl sea_on
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_on.png
+map_d sea_on.png

@@ -1,0 +1,148 @@
+# Blender MTL File: 'Best lighting.blend'
+# Material Count: 14
+
+newmtl .png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.687520 0.507979 0.397386
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad62_r_magma01.png
+
+newmtl ab60_s_btl_sG_kaio_fr1.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.792934 0.713516 0.543621
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ab60_s_btl_sG_kaio_fr1.png
+
+newmtl ad62_r_ground.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.344895 0.385748 0.680175
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad62_r_ground.png
+
+newmtl ad62_r_gura_fr1.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.397068 0.647557 0.443823
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Textures\\ad62_r_gura_fr1.png
+map_d Textures\\ad62_r_gura_fr1.png
+
+newmtl ad62_r_magma01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.434035 0.492712 0.488698
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad62_r_magma01.png
+
+newmtl ad62_r_sparks.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.708621 0.748912 0.467995
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Textures\\ad62_r_sparks.png
+map_d Textures\\ad62_r_sparks.png
+
+newmtl ad62_r_wall.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.482412 0.471592 0.394166
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ad62_r_wall.png
+
+newmtl btl_sG_gura_fr2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.368769 0.536214 0.474770
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Textures\\btl_sG_gura_frd2.png
+map_d Textures\\btl_sG_gura_frd2.png
+
+newmtl btl_sG_gura_frd.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.520269 0.434137 0.555365
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Textures\\btl_sG_gura_frd.png
+map_d Textures\\btl_sG_gura_frd.png
+
+newmtl btl_sG_gura_frd2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.383056 0.495934 0.577114
+Ks 0.563218 0.563218 0.563218
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Textures\\btl_sG_gura_frd2.png
+map_d Textures\\btl_sG_gura_frd2.png
+
+newmtl btl_sG_gura_futi.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.697982 0.360533 0.554294
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Textures\\btl_sG_gura_futi.png
+map_d Textures\\btl_sG_gura_futi.png
+
+newmtl btl_sG_gura_iw3.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.483496 0.487312 0.512548
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\btl_sG_gura_iw3.png
+
+newmtl btl_sG_gura_iw4.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.731266 0.584134 0.331630
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\btl_sG_gura_iw4.png
+
+newmtl gura_iwa.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.502891 0.607567 0.485968
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\gura_iwa.png

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1a0e3cdceb9b50f44a45da3250c45b3b
+timeCreated: 1509085200
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 500
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BattleNumbers5
+  fontNames:
+  - BattleNumbers5
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
